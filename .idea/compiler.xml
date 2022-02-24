@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="voting-app" />
+        <module name="routing-service-builder" />
+        <module name="file-processor-2" />
+        <module name="rate-limiter" />
+        <module name="file-processor" />
+        <module name="routing-service" />
+        <module name="voting-2" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
